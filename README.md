@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Doan Duong Minh Tri</h1>
 <h3 align="center">Passionate about studying and researching Node.js, I enjoy developing web applications with the MERN stack. Recently, I've become interested in creating 3D applications, particularly games, using Three.js and Blender.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lerclercduong" alt="lerclercduong" /></a> </p>
 
 - 🔭 I’m currently working on [Chat on gpt](gptchathost.online)
 
 - 🌱 I’m currently learning **Three.js, blender**
 
 - 📫 How to reach me **doantri2003@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
